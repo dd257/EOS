@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include "libarith.h"
 
 int main(int argc, char const *argv[])
 {
