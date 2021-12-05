@@ -1,6 +1,6 @@
 all: p2 p1
-	./p1
 	./p2
+	./p1
 
 p1: p1.c
 	gcc -o p1 p1.c
