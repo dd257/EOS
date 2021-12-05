@@ -1,4 +1,5 @@
-all:func
+all: func
+	./func
 
 func: main.o add.o sub.o
 	gcc -o func main.o add.o sub.o
