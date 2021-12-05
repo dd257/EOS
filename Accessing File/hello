@@ -1,0 +1,8 @@
+#include <stdio.h>
+void main()
+{
+	char c="Hello World";
+	printf("'%c'/n",c);
+}
+HELLO
+HELLOHELLOHELLO
